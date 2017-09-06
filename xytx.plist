@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/ichampionT/ZZXOAPublish/master/ZZXOA.ipa</string>
+					<string>https://youhu.oss-cn-hangzhou.aliyuncs.com/ipa/xytx-adhoc-08.04-isd.ipa</string>
 					<key>New item</key>
 					<string></string>
 				</dict>
@@ -19,25 +19,27 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/ichampionT/ZZXOAPublish/master/57*57.png</string>
+					<string>http://xtest.92fox.cn:105/xytx/images/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/ichampionT/ZZXOAPublish/master/512*512.png</string>
+					<string>http://xtest.92fox.cn:105/xytx/images/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zzx.OA</string>
+				<string>www.shunbang2017.xytx0801</string>
 				<key>bundle-version</key>
-				<string>1.6</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+				<string>App Subtitle</string>
 				<key>title</key>
-				<string>中浙信OA</string>
+				<string>仙域天下</string>
 			</dict>
 		</dict>
 	</array>
